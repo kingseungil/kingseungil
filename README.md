@@ -13,7 +13,7 @@
   <a href="mailto:flykim5115@gmail.com" target="_blank"><img src="https://img.shields.io/badge/flykim5115@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <p>
-I'm Studying in 👨🏻‍💻SpartaCodingClub
+I'm Studying in 👨🏻‍💻 ##SpartaCodingClub##
 </p>
 
 Interested in 
