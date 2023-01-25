@@ -17,7 +17,8 @@ I'm Studying in 👨🏻‍💻SpartaCodingClub
 </p>
 
 Interested in 
-   <img src="https://img.shields.io/badge/JS-007396?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JS-007396?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TS-007396?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-008000?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-FFFF00?style=flat-square&logo=Python&logoColor=black"/>
 
