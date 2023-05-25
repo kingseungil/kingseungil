@@ -28,6 +28,7 @@ Interested in
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingseungil&show_icons=true&theme=react)
+![snake gif](https://github.com/kingseungil/kingseungil/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
