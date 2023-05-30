@@ -31,7 +31,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kingseungil&theme=dracula&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 ![kingseungil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingseungil&show_icons=true&theme=dracula&range=all_time&rank_icon=github) <br>
-![kingseungil's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kingseungil&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&theme=radical)]
+![kingseungil's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kingseungil&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&theme=radical)
 ![snake gif](https://github.com/kingseungil/kingseungil/blob/output/github-contribution-grid-snake.svg)
 
 
