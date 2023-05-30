@@ -27,9 +27,11 @@
 
 <br>
  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingseungil&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23C62D2D&title=hits&edge_flat=false"/></a>
+ <br>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingseungil&show_icons=true&theme=transparent&range=all_time&rank_icon=github)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kingseungil&theme=dracula&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
+![kingseungil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingseungil&show_icons=true&theme=dracula&range=all_time&rank_icon=github) <br>
+![kingseungil's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kingseungil&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&theme=radical)]
 ![snake gif](https://github.com/kingseungil/kingseungil/blob/output/github-contribution-grid-snake.svg)
 
 
