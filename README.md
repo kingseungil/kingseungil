@@ -7,7 +7,7 @@
 <br/>
 
 <p>
-  <a href="https://kingseungil.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="https://kingseungil.github.io/" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Tistory&logoColor=white"/></a>
   <a href="mailto:flykim5115@gmail.com" target="_blank"><img src="https://img.shields.io/badge/flykim5115@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
