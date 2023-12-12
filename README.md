@@ -9,6 +9,5 @@
 
 
 ![kingseungil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kingseungil&show_icons=true&theme=dracula&range=all_time&rank_icon=github) <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=kingseungil&theme=dracula&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
